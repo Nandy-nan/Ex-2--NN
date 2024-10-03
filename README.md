@@ -50,6 +50,7 @@ STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 
 # PROGRAM:
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -138,6 +139,7 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/8faa0b00-3d28-4b1c-a812-94beb4bfe613)
 ![image](https://github.com/user-attachments/assets/2e2c29e7-c346-4aea-8f71-d3dd2ffe1896)
+```
 
 
 
