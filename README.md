@@ -129,6 +129,7 @@ plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
     ''' Insert your code here '''
+```
 
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/1171e56a-b5dd-4075-af8c-503d264be5cc)
@@ -139,7 +140,7 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/8faa0b00-3d28-4b1c-a812-94beb4bfe613)
 ![image](https://github.com/user-attachments/assets/2e2c29e7-c346-4aea-8f71-d3dd2ffe1896)
-```
+
 
 
 
